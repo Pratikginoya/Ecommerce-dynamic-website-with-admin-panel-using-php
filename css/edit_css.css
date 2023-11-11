@@ -1,0 +1,5 @@
+.show-search .icon-search,
+/*.show-filter .icon-filter {display: none;}*/
+
+.show-search .icon-close-search,
+/*.show-filter .icon-close-filter {display: unset;}*/
